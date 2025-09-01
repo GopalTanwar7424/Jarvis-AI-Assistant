@@ -231,9 +231,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: (https://github.com/GopalTanwar7424)
-- Email: gt124176@gmail.com
-- LinkedIn: [Your LinkedIn][(https://www.linkedin.com/in/gopalsinghtanwar/)]
+- GitHub: [GopalTanwar7424](https://github.com/GopalTanwar7424)
+- Email: [gt124176@gmail.com](mailto:gt124176@gmail.com)
+- LinkedIn: [Gopal Singh Tanwar](https://www.linkedin.com/in/gopalsinghtanwar/)
 
 ## 🙏 Acknowledgments
 
